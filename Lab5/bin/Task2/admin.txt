@@ -1,0 +1,13 @@
+Username: adlet
+Password: Bal
+
+
+
+
+
+
+2017-11-01T14:07:54.341 admin logged in to a system
+2017-11-01T14:17:41.392 admin added new course - Algo
+2017-11-01T14:18:36.819 admin added textbook -terr to course Algo
+2017-11-01T14:18:43.728 admin added instructor - sdjfjsdof to course Algo
+2017-11-01T14:18:43.728 admin logged in to a system
